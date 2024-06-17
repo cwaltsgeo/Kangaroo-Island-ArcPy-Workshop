@@ -6,7 +6,7 @@ layout: post
 
 **Workshop Overview** <br>
 - Lesson 1: Overview of Python & Notebooks in ArcGIS Pro
-- Lesson 2: What is ArcPy?
+- Lesson 2: Accessing Imagery in the Cloud
 - Lesson 3: A Practical Guide to ArcPy
 - Lesson 4: Raster Analysis with ArcPy
 - Lesson 5: Building Reproducible Workflows in ArcGIS Pro
