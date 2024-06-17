@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![kangaroo_island_result](https://github.com/cwaltsgeo/arcpy_workshop/assets/146869868/6e0304ce-2778-46eb-a504-e026adb828e8)
+![kangaroo_island_result](https://raw.githubusercontent.com/cwaltsgeo/Kangaroo-Island-ArcPy-Workshop/main/assets/kangaroo_island_result.png)
 
 **Workshop Overview** <br>
 - Lesson 1: Overview of Python & Notebooks in ArcGIS Pro
