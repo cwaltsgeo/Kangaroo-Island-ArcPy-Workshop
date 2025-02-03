@@ -1,7 +1,3 @@
----
-layout: post
----
-
 ![kangaroo_island_result](https://raw.githubusercontent.com/cwaltsgeo/Kangaroo-Island-ArcPy-Workshop/main/assets/kangaroo_island_result.png)
 
 **Workshop Overview** <br>
